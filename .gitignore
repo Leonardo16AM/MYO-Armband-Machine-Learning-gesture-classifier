@@ -1,0 +1,6 @@
+/docs
+/examples
+/__pycache__
+/dataset
+/models
+/export.pkl
