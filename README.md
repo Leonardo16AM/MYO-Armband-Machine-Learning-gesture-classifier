@@ -19,7 +19,7 @@ Then run all the cells from `trainer.ipynb`. If you want to display pictures of 
 
 ---
 ### Self recomendations for the future:
-  - Don`t use a CNN to classify gestures, they work, but probably not the best solution.
+  - Do not use a CNN to classify gestures, they work, but probably not the best solution.
   - Create an app to clasify your own gestures in real time, it can be done now but not in real time.
 
 
